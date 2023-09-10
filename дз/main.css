@@ -1,0 +1,72 @@
+body{
+    background-color: #a1b2c3;
+    font: 24px/36px Franklin Gothic Medium, Comic Sans Ms,Segoe Print, sans-serif;
+
+}
+
+div.stroka_2{
+    background-color: #20747d;
+    color: #dea666;
+ 
+    padding: 1%;
+}
+div.stroka_1{
+    background-color: #fffa0e;
+    color: #5a83f5;
+    text-align: center;
+    font-size: 64px;
+    padding: 1%;
+}
+
+div.stroka_3{
+    background-color: #0e7c54;
+    padding: 1%;
+    text-align: center;
+}
+ a.alink:hover{
+   
+    color: #ffa5e7;
+    margin: 1%;
+    text-decoration: none;
+    color: #fafafa;
+    border: 5px solid #ffda47;
+    padding: 5px 10px 5px 10px;
+    border: 7px;
+    box-shadow: 5px 5px 2px -2px #aaa6c2;
+}
+
+div.stroka_3 a{
+    background: #ffda47 ;
+}
+div.stroka_3 a{
+    box-shadow: 5px 5px 2px -2px #aaa6c2;
+} 
+
+table{
+    background: #ce40ac;
+    color: #0a3a50;
+    margin: 0 auto;
+    width: 98%;
+    text-align: center;
+    border:  8px dashed #1144aa;
+    border-spacing: 8px;
+
+}
+
+img{
+    vertical-align: bottom;
+    padding: 5px;
+}
+div.stroka_4{
+    background: #ffda47 ;
+    color: #000000;
+    padding: 1%;
+    text-align: center;
+}
+div.stroka_4 a{
+    text-decoration: none;
+    color: #000000;
+}
+div.stroka_4 a:hover{
+    color: #000000;
+}

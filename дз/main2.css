@@ -1,0 +1,67 @@
+body{
+    background-color: #15fea1;
+    font: 24px/36px Franklin Gothic Medium, Comic Sans Ms,Segoe Print, sans-serif;
+
+}
+div.stroka_2{
+    background-color: #aa44bc;
+    color: #00117c ;
+ 
+    padding: 1%; 
+
+    text-align: center ;
+}
+div.stroka_1{
+    background-color: #66cae3;
+    color: #44a40a;
+    text-align: center;
+    font-size: 64px;
+    padding: 1%;
+    
+} 
+div.stroka_2 ul{
+        display: inline-block;
+}
+hr{
+     border: none;
+     background-color: #c0de10;
+     height: 10px;
+}
+div.stroka_3{
+    background-color: #7b41ca;
+    color: #c117bc ;
+ 
+    padding: 1%; 
+
+    text-align: center ;
+}
+div.stroka_3 ol{
+    display: inline-block;
+    text-align: left ;
+}
+
+div.stroka_4{
+    background-color: #6aeee1;
+    color: #000ea1 ;
+ 
+    padding: 1%; 
+
+    text-align: center ;
+}
+summary::-webkit-details-marker {
+
+    display: none;
+}
+div.stroka_5{
+    background: #ffda47 ;
+    color: #000000;
+    padding: 1%;
+    text-align: center;
+}
+div.stroka_5 a{
+    text-decoration: none;
+    color: #000000;
+}
+div.stroka_5 a:hover{
+    color: #000000;
+}
