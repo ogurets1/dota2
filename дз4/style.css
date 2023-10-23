@@ -26,6 +26,11 @@ html{
 body{
     background: var(--bg-color);
     color: var(--text-color);
+    background: url('images/11111.jpg') no-repeat;
+    background-size: cover;
+    background-position: left;
+    z-index: -1;
+
 }
 
 .header{
@@ -87,7 +92,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('images/photo_2023-10-16_15-55-27-transformed.jpg') no-repeat;
+    background: url('images/11111.jpg') no-repeat;
     background-size: cover;
     background-position: left;
     z-index: -1;
